@@ -1,0 +1,3 @@
+pt-get install imagemagick
+mogrify -resize x90  *.jpg
+
